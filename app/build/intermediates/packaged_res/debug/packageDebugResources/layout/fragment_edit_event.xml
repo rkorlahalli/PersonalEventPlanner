@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical"
+        android:padding="16dp">
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Edit Event"
+            android:textSize="24sp"
+            android:textStyle="bold"
+            android:layout_marginBottom="16dp" />
+
+        <EditText
+            android:id="@+id/editTextTitleEdit"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:hint="Title" />
+
+        <Spinner
+            android:id="@+id/spinnerCategoryEdit"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="12dp" />
+
+        <EditText
+            android:id="@+id/editTextLocationEdit"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:hint="Location"
+            android:layout_marginTop="12dp" />
+
+        <Button
+            android:id="@+id/buttonPickDateEdit"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Pick Date"
+            android:layout_marginTop="16dp" />
+
+        <TextView
+            android:id="@+id/textSelectedDateEdit"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="8dp" />
+
+        <Button
+            android:id="@+id/buttonPickTimeEdit"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Pick Time"
+            android:layout_marginTop="16dp" />
+
+        <TextView
+            android:id="@+id/textSelectedTimeEdit"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="8dp" />
+
+        <Button
+            android:id="@+id/buttonUpdateEvent"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Update Event"
+            android:layout_marginTop="24dp" />
+
+        <Button
+            android:id="@+id/buttonDeleteEvent"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Delete Event"
+            android:layout_marginTop="12dp" />
+    </LinearLayout>
+</ScrollView>

@@ -1,0 +1,22 @@
+[
+    {
+        "merged": "com.example.personaleventplanner.app-mergeDebugResources-46:/layout/fragment_edit_event.xml",
+        "source": "com.example.personaleventplanner.app-main-49:/layout/fragment_edit_event.xml"
+    },
+    {
+        "merged": "com.example.personaleventplanner.app-mergeDebugResources-46:/layout/fragment_add_event.xml",
+        "source": "com.example.personaleventplanner.app-main-49:/layout/fragment_add_event.xml"
+    },
+    {
+        "merged": "com.example.personaleventplanner.app-mergeDebugResources-46:/layout/activity_main.xml",
+        "source": "com.example.personaleventplanner.app-main-49:/layout/activity_main.xml"
+    },
+    {
+        "merged": "com.example.personaleventplanner.app-mergeDebugResources-46:/layout/item_event.xml",
+        "source": "com.example.personaleventplanner.app-main-49:/layout/item_event.xml"
+    },
+    {
+        "merged": "com.example.personaleventplanner.app-mergeDebugResources-46:/layout/fragment_event_list.xml",
+        "source": "com.example.personaleventplanner.app-main-49:/layout/fragment_event_list.xml"
+    }
+]

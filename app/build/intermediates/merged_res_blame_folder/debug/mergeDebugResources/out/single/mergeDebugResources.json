@@ -1,0 +1,50 @@
+[
+    {
+        "merged": "com.example.personaleventplanner.app-debug-47:/navigation_nav_graph.xml.flat",
+        "source": "com.example.personaleventplanner.app-main-49:/navigation/nav_graph.xml"
+    },
+    {
+        "merged": "com.example.personaleventplanner.app-debug-47:/layout_fragment_edit_event.xml.flat",
+        "source": "com.example.personaleventplanner.app-main-49:/layout/fragment_edit_event.xml"
+    },
+    {
+        "merged": "com.example.personaleventplanner.app-debug-47:/menu_bottom_nav_menu.xml.flat",
+        "source": "com.example.personaleventplanner.app-main-49:/menu/bottom_nav_menu.xml"
+    },
+    {
+        "merged": "com.example.personaleventplanner.app-debug-47:/mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "com.example.personaleventplanner.app-main-49:/mipmap-anydpi-v26/ic_launcher_round.xml"
+    },
+    {
+        "merged": "com.example.personaleventplanner.app-debug-47:/drawable_ic_launcher_foreground.xml.flat",
+        "source": "com.example.personaleventplanner.app-main-49:/drawable/ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "com.example.personaleventplanner.app-debug-47:/mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "com.example.personaleventplanner.app-main-49:/mipmap-anydpi-v26/ic_launcher.xml"
+    },
+    {
+        "merged": "com.example.personaleventplanner.app-debug-47:/layout_item_event.xml.flat",
+        "source": "com.example.personaleventplanner.app-main-49:/layout/item_event.xml"
+    },
+    {
+        "merged": "com.example.personaleventplanner.app-debug-47:/layout_fragment_event_list.xml.flat",
+        "source": "com.example.personaleventplanner.app-main-49:/layout/fragment_event_list.xml"
+    },
+    {
+        "merged": "com.example.personaleventplanner.app-debug-47:/xml_data_extraction_rules.xml.flat",
+        "source": "com.example.personaleventplanner.app-main-49:/xml/data_extraction_rules.xml"
+    },
+    {
+        "merged": "com.example.personaleventplanner.app-debug-47:/layout_fragment_add_event.xml.flat",
+        "source": "com.example.personaleventplanner.app-main-49:/layout/fragment_add_event.xml"
+    },
+    {
+        "merged": "com.example.personaleventplanner.app-debug-47:/xml_backup_rules.xml.flat",
+        "source": "com.example.personaleventplanner.app-main-49:/xml/backup_rules.xml"
+    },
+    {
+        "merged": "com.example.personaleventplanner.app-debug-47:/layout_activity_main.xml.flat",
+        "source": "com.example.personaleventplanner.app-main-49:/layout/activity_main.xml"
+    }
+]
